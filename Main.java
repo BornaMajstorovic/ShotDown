@@ -1,4 +1,3 @@
-package ShutTheFuckDown;
 
 import java.io.IOException;
 import java.util.Timer;
