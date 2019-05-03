@@ -1,2 +1,2 @@
 # ShotDown
-Shooting down windows pc after x minutes
+Shutting down windows pc after x minutes
